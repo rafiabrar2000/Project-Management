@@ -1,0 +1,21 @@
+Category,Details
+Risk ID,SUIU-1
+Date,27/11/2024
+Probability,80%
+Impact,High
+Description,"The risk of unauthorized access to sensitive user data, leading to potential legal issues, 
+loss of trust, and reputational damage."
+Refinement/context,"1. Weak encryption protocols.
+2. Insider threats from staff negligence or malicious intent.
+3. Sophisticated cyberattacks targeting system vulnerabilities."
+Mitigation/monitoring,"1. Implement robust encryption protocols and access controls.
+2. Conduct regular security audits and vulnerability assessments.
+3. Provide ongoing staff training on data protection measures."
+Management/contingency plan/trigger,"Upon detection of a breach:
+- Activate the incident response team.
+- Notify affected users promptly and ensure transparency.
+- Engage legal counsel for compliance with data regulations.
+Trigger: Failure of mitigation measures by 15/12/2024."
+Current Status,Mitigation steps initiated.
+Originator,Team SmartUIU
+Assigned,AI Specialist
